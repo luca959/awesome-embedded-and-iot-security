@@ -79,6 +79,8 @@ Software tools for analyzing embedded/IoT devices and firmware.
 
 - [JTAGenum](https://github.com/cyphunk/JTAGenum) - Add JTAG capabilities to an Arduino.
 - [OpenOCD](http://openocd.org/) - Free and Open On-Chip Debugging, In-System Programming and Boundary-Scan Testing.
+- - [IoTPwnBench](https://github.com/Mobile-IoT-Security-Lab/IoTPwnBench) - Benchmark of deliberately vulnerable Yocto-based IoT firmware for QEMU, designed for security-tool testing.
+
 
 ### Misc Tools
 
